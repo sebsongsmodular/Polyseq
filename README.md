@@ -11,6 +11,7 @@ The firmware is shared on this github page and anyone is welcome to make modific
 
 ## Version history
 The first version uploaded to this repo is version 1.1.
+
 The current version is 1.2 released on April 17 2024.
 
 ## Prerequisites for uploading firmware to the Raspberry Pi Pico on the module.
