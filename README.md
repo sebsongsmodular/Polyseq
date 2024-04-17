@@ -1,4 +1,4 @@
-![Sebsongs Modular Polyseq](https://modular.sebsongs.com/wp-content/uploads/2023/05/Polyseq_white-681x1024.png)
+![Sebsongs Modular Polyseq](https://modular.sebsongs.com/wp-content/uploads/2023/05/Polyseq_cropped-141x300.png)
 
 # Polyseq
 Firmware for the Sebsongs Modular **Polyseq** eurorack module sold on [Thonk](https://www.thonk.co.uk/shop/sebsongs-polyseq/).
